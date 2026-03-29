@@ -32,7 +32,7 @@ Give your AI live trend data from Google (Search, Images, News, Shopping), YouTu
 ### 1. Get a free API key
 
 Go to **[trendsmcp.ai](https://trendsmcp.ai)**, enter your email, and get your free key instantly.
-100 requests/day, no credit card required.
+20 requests/day, no credit card required.
 
 ### 2. Add to your AI client
 
