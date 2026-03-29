@@ -5,9 +5,7 @@
 [![Works with Claude](https://img.shields.io/badge/Claude-supported-orange)](https://trendsmcp.ai/mcp-server-for-claude)
 [![Works with Cursor](https://img.shields.io/badge/Cursor-supported-purple)](https://trendsmcp.ai/mcp-server-for-cursor)
 
-> **Give your AI live trend data across Google, YouTube, TikTok, Reddit, Amazon,
-> Wikipedia, News, Web Traffic, App Downloads, Steam, npm, and more.**
-> One MCP connection. Free API key. No scraping. Works with any MCP-compatible AI.
+Give your AI live trend data from Google, YouTube, TikTok, Reddit, Amazon, Wikipedia, X (Twitter), LinkedIn, Spotify, GitHub, Steam, npm, App Store, news sentiment, web traffic and more. One MCP connection. Free API key. No scraping.
 
 **[trendsmcp.ai](https://trendsmcp.ai)** &nbsp;|&nbsp;
 [Data Sources](https://trendsmcp.ai/data-sources) &nbsp;|&nbsp;
