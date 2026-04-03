@@ -67,13 +67,22 @@ Or paste the config manually (replace `YOUR_API_KEY` with the key from your emai
 ```
 
 **Claude Desktop** &nbsp; (`claude_desktop_config.json`)
+User → Settings → Developer → Edit Config — add inside mcpServers
 ```json
 {
   "mcpServers": {
     "trends-mcp": {
-      "url": "https://api.trendsmcp.ai/mcp",
-      "transport": "http",
-      "headers": { "Authorization": "Bearer YOUR_API_KEY" }
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://api.trendsmcp.ai/mcp",
+        "--header",
+        "Authorization:${AUTH_HEADER}"
+      ],
+      "env": {
+        "AUTH_HEADER": "Bearer YOUR_API_KEY"
+      }
     }
   }
 }
