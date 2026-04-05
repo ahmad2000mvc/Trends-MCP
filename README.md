@@ -18,7 +18,7 @@ Give your AI live trend data from Google Trends (Search, Images, News, Shopping)
 
 | Problem | Trends MCP solution |
 |---------|-------------------|
-| AI has a training cutoff -- it doesn't know what's trending today | Live data from 12+ sources, queried at request time |
+| AI has a training cutoff - it doesn't know what's trending today | Live data from 12+ sources, queried at request time |
 | Managing TikTok, Reddit, YouTube APIs separately is painful | One MCP endpoint, all platforms, consistent schema |
 | pytrends scrapes Google and breaks constantly | Managed pipeline with retries, no scraping |
 | Trend data comes back as charts you have to read manually | Structured JSON your AI reasons over directly |
