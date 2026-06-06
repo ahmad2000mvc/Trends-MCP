@@ -18,6 +18,7 @@ Give your AI live trend data from Google Trends (Search, Images, News, Shopping)
 [Install guides](#install-by-ai-client)
 
 ---
+<img width="1183" height="1114" alt="image" src="https://github.com/user-attachments/assets/b9ef0bed-2533-43f2-9c9e-87e4c9efa1dd" />
 
 ## Why Trends MCP
 
