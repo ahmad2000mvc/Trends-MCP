@@ -4,6 +4,9 @@
 [![MCP](https://img.shields.io/badge/MCP-compatible-blue)](https://modelcontextprotocol.io)
 [![Works with Claude](https://img.shields.io/badge/Claude-supported-orange)](https://trendsmcp.ai/mcp-server-for-claude)
 [![Works with Cursor](https://img.shields.io/badge/Cursor-supported-purple)](https://trendsmcp.ai/mcp-server-for-cursor)
+[![Works with VS Code](https://img.shields.io/badge/VS%20Code-supported-blue)](https://trendsmcp.ai/mcp-server-for-vscode)
+[![GitHub stars](https://img.shields.io/github/stars/trendsmcp/trends-mcp?style=social)](https://github.com/trendsmcp/trends-mcp/stargazers)
+
 
 Give your AI live trend data from Google Trends (Search, Images, News, Shopping), YouTube, TikTok, Reddit, Amazon, Wikipedia, X (Twitter), LinkedIn, Spotify, GitHub, Steam, npm, App Store, news sentiment, web traffic and more. One MCP connection. Free API key. No scraping.
 
