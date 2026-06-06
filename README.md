@@ -104,7 +104,6 @@ https://api.trendsmcp.ai/mcp
 | `get_trends` | Time-series for a keyword on one source | `get_trends(keyword='AI agents', source='google search', data_mode='weekly')` |
 | `get_growth` | Cross-source growth % over multiple periods | `get_growth(keyword='vibe coding', source='all', percent_growth=['1M','3M','1Y'])` |
 | `get_top_trends` | What is trending right now | `get_top_trends(source='tiktok', limit=20)` |
-| `get_ranked_trends` | Top trends ranked by volume | `get_ranked_trends(source='reddit', limit=10)` |
 
 ---
 
