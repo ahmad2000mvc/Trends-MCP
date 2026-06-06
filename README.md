@@ -18,6 +18,7 @@ Give your AI live trend data from Google Trends (Search, Images, News, Shopping)
 [Install guides](#install-by-ai-client)
 
 ---
+https://pub-a6a189b082a548c3bad0669899be4ae8.r2.dev/1-1.mov
 <img width="400" height="385" alt="image" src="https://github.com/user-attachments/assets/6ff0e7ae-7f2d-460f-9a1c-5fd542d7fb77" />
 
 
