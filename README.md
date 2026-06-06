@@ -1,6 +1,6 @@
 # Trends MCP
 
-## Live trend data for your AI
+Live trend data for your AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-compatible-blue)](https://modelcontextprotocol.io)
