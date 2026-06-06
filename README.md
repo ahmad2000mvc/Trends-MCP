@@ -36,7 +36,9 @@ Go to **[trendsmcp.ai](https://trendsmcp.ai)**, enter your email, and get your f
 
 ### 2. Add to your AI client
 
-[**+ Add to Cursor (one click)**](cursor://anysphere.cursor-deeplink/mcp/install?name=trends-mcp&config=eyJ1cmwiOiJodHRwczovL2FwaS50cmVuZHNtY3AuYWkvdjEvbWNwIiwidHJhbnNwb3J0IjoiaHR0cCJ9)
+[Add to Claude](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Trends%20MCP&connectorUrl=https%3A%2F%2Fwww.trendsmcp.ai%2Fmcp)
+
+[Add to Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=trends-mcp&config=eyJ1cmwiOiJodHRwczovL2FwaS50cmVuZHNtY3AuYWkvdjEvbWNwIiwidHJhbnNwb3J0IjoiaHR0cCJ9)
 
 Or paste the config manually (replace `YOUR_API_KEY` with the key from your email):
 
