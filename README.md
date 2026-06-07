@@ -1,5 +1,8 @@
 # Trends MCP
 
+<img width="1841" height="723" alt="image" src="https://github.com/user-attachments/assets/e50e3025-cbdf-4f08-b0df-c1219e237f31" />
+
+
 Live trend data for your AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
