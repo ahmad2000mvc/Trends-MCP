@@ -1,7 +1,6 @@
 # TrendsMCP
 
 <img width="1841" height="723" alt="image" src="https://github.com/user-attachments/assets/e50e3025-cbdf-4f08-b0df-c1219e237f31" />
-[![Get a free API key](https://img.shields.io/badge/Get%20a%20free%20key-trendsmcp.ai-blue?style=for-the-badge)](https://trendsmcp.ai)
 
 Live trend data for your AI
 
