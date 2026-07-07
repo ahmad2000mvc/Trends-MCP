@@ -51,16 +51,6 @@ One MCP endpoint replaces per-platform API keys, brittle scrapers (looking at yo
 
 <img width="400" alt="Trends MCP in action" src="https://github.com/user-attachments/assets/6ff0e7ae-7f2d-460f-9a1c-5fd542d7fb77" />
 
-## 🔥 Trending right now
-
-<!-- TRENDING:START — auto-updated daily by .github/workflows/trending.yml using our own API -->
-| # | Google Trends | TikTok Hashtags | GitHub Repos |
-|---|---------------|-----------------|--------------|
-| 1 | … | … | … |
-<!-- TRENDING:END -->
-
-*This table updates itself every day via GitHub Actions calling the Trends MCP API. [Steal the workflow](.github/workflows/trending.yml) for your own repo.*
-
 ## Quickstart (30 seconds)
 
 **1.** Grab a free API key at [trendsmcp.ai](https://trendsmcp.ai?utm_source=github&utm_medium=readme&utm_campaign=quickstart) — 100 requests/mo, no credit card.
