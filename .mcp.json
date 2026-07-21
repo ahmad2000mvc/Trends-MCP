@@ -4,7 +4,7 @@
       "type": "streamable-http",
       "url": "https://api.trendsmcp.ai/mcp",
       "headers": {
-        "Authorization": "${TRENDSMCP_API_KEY}"
+        "Authorization": "Bearer ${TRENDSMCP_API_KEY}"
       }
     }
   }
